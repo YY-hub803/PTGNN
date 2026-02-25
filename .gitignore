@@ -1,0 +1,8 @@
+# --- 忽略特定文件类型 ---
+*.pt
+*.csv
+*.txt
+*.png
+# --- 忽略文件夹 ----
+.idea/
+Yangtze_basin*/
